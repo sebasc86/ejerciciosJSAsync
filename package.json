@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/cd-educ/ejerciciosJS#readme",
   "dependencies": {
+    "node-fetch": "^2.6.1",
     "request": "^2.88.2",
     "request-promise": "^4.2.6"
-  }
+  },
+  "devDependencies": {}
 }
